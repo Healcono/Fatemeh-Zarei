@@ -1,0 +1,8 @@
+{
+  "name": "Fatemeh Zarei Portfolio",
+  "description": "Academic portfolio of Dr. Fatemeh Zarei — research, publications, digital projects and knowledge translation at the intersection of health education, digital health and health literacy.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
